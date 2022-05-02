@@ -15,9 +15,10 @@ header>img{
     margin-bottom: 30px;
 }
 
-.container{
+main{
     margin: 10px;
 }
+
 
 .titolone{
     font-size: xx-large;
@@ -30,4 +31,17 @@ header>img{
 h2>a{
     text-decoration: none;
     color: rgb(132,208,240);
+}
+
+.foto-fonti{
+    font-size: small;
+}
+
+section>p{
+    margin-top: 20px;
+}
+
+ul{
+    margin-top: 20px;
+    padding-left: 10px;
 }
