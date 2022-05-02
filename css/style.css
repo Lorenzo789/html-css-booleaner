@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    width: 100%;
+    height: 180px;
+    background-color: rgb(77,157,251);
+}
+
+header>img{
+    width: 300px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+
+.container{
+    margin: 10px;
+}
+
+.titolone{
+    font-size: xx-large;
+}
+
+.autore-data{
+    color: rgb(187,187,187);
+}
+
+h2>a{
+    text-decoration: none;
+    color: rgb(132,208,240);
+}
