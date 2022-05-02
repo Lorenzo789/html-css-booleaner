@@ -60,3 +60,34 @@ tbody{
 #riga-bianca{
     background-color: white;
 }
+
+footer{
+    margin: 10px;
+}
+.scritta-footer{
+    margin-top: 20px;
+    color: rgb(187,187,187);
+    font-size: large;
+}
+
+.monitor{
+    padding: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: larger;
+    color: white;
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.grafico{
+    padding: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: larger;
+    color: white;
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
